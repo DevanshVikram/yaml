@@ -133,7 +133,7 @@ You will see all students displayed, and then you can enter a GPA threshold to f
 
 ## 6. Output
 <p align="center">
-  <img src="img/img1.png" alt="Project Screenshot" />
+  <img src="img/img.png" alt="Project Screenshot" />
 </p>
 ## 7. Conclusion
 This project demonstrates how to work with YAML in Python using the PyYAML library. YAML is a great format for configuration files, and this script showcases a practical example of data loading, processing, and filtering.
